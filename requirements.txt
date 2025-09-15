@@ -1,0 +1,11 @@
+# Auto-generated from notebook imports
+catboost==1.2.8
+ipynbname
+lightgbm==4.6.0
+matplotlib==3.5.0
+numpy==1.24.4
+pandas==1.2.4
+phik==0.12.4
+requests==2.32.3
+seaborn==0.11.1
+warnings
